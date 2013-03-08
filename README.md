@@ -1,4 +1,4 @@
-ttrreello-example
+attrreello-example
 ==============
 
 Testing puppet-webhooks
