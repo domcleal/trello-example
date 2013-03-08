@@ -1,4 +1,4 @@
 trello-example
 ==============
 
-Testing puppet-webhooks
+Example
